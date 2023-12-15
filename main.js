@@ -1,3 +1,10 @@
+<!--
+	Name: CHERRY MAHENDRABHAI PATEL 
+	ID: 100920458
+	Date: 15 DECEMBER 2023
+	-->
+
+
 // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
